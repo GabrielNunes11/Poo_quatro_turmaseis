@@ -1,4 +1,4 @@
-# Poo_quatro_turmaseis# POO_quatro
+# Poo_quatro_turma6# POO_quatro
 Trabalho Final de POO- grupo 4
 
 Sobre o trabalho:
