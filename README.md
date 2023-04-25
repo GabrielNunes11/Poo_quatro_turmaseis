@@ -11,13 +11,13 @@ Sobre o sistema:
 1-
 Menu inicial:
 
-No menu inicial, o usuário precisa fornecer seu CPF e senha para executar seu login, sendo que, foram adicionadas quatro agências (e mais de uma conta corrente e poupança).
-Foram criadas os usuários  cliente, gerente, diretor e  presidente.Sendo que o sistema distingue qual é o usuário logado.
+No menu inicial, o usuário precisa fornecer seu CPF e senha para executar seu login, sendo que, foram adicionadas quatro agências (e mais de uma conta corrente e poupança), todas as informações dos usuários são guardadas em banco de dados preenchido em txt.
+Foram criadas os usuários Cliente, Gerente, Diretor e Presidente. Sendo que o sistema distingue qual é o usuário logado.
 
  2-
 Movimentações na conta:
 
-Nosso sistema fornece uma opção de movimentação na conta para os clientes, permitindo que eles realizem saques, depósitos e transferências bancárias para outras contas.
+Nosso sistema fornece uma opção de movimentação na conta para os clientes, permitindo que eles realizem saques, depósitos e transferências bancárias para outras contas, além de oferecer um Seguro de Vida de acordo com a disponibilidade do usuário.
 
 3-
 Relatórios:
